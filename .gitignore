@@ -1,0 +1,20 @@
+# Build output
+/pulse
+/dist/
+/bin/
+
+# Test and coverage artifacts
+*.test
+*.out
+coverage.html
+
+# Go workspace files
+go.work
+go.work.sum
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
